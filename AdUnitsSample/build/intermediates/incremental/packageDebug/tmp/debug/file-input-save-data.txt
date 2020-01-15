@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Jan 16 00:47:18 CST 2020
+1.base=/Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/build/intermediates/transforms/dexMerger/debug/0
+1.path=audience_network.dex

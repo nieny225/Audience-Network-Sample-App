@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/res/values-large/layout.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "86,16",
+                        "endColumns": "38,69",
+                        "endOffsets": "120,81"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,571",
+                        "endColumns": "38,69",
+                        "endOffsets": "89,636"
+                    }
+                },
+                {
+                    "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a05dbefad98d961bdfbca7a1f04af09e/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "94,153,224,295,365,435,503,641,745",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "148,219,290,360,430,498,566,740,856"
+                    }
+                }
+            ]
+        }
+    ]
+}

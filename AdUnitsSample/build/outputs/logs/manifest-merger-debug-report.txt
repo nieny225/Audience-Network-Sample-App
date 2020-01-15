@@ -1,0 +1,264 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:2:1-41:12
+MERGED from [:DebugSettings:] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/DebugSettings.aar/8c0810f55407c0376eddb08b5490651d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a05dbefad98d961bdfbca7a1f04af09e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/bc0b97cdde95300a2cebd2c684c0968f/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bede00667008fef0b9fce036e9cef6c1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/41516c6df943c8a74288936aba010122/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/881ce9c2c057c7d0017fa4ccfbaacf8e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8be2aa4dde4051153270d2c2edc6e381/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ccf941dd7923bdbe26f1bac77d4dc737/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7489ba176cd3b7598c4687f8bced2a2f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/09b4354a5b9e9fe7b5925bb8c4653651/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/104b8e19a2cebc7906a2d075042d7d30/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/db50e08f306407685392492a0e6b3ddc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1dc64e85f03b48c21305935ba8fc8368/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d3be6eee09675eb7a07c343f99cad17/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:2:11-55
+		INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:3:11-69
+uses-sdk
+ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:5:5-7:40
+INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:5:5-7:40
+INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:5:5-7:40
+MERGED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a05dbefad98d961bdfbca7a1f04af09e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a05dbefad98d961bdfbca7a1f04af09e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/bc0b97cdde95300a2cebd2c684c0968f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/bc0b97cdde95300a2cebd2c684c0968f/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bede00667008fef0b9fce036e9cef6c1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bede00667008fef0b9fce036e9cef6c1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/41516c6df943c8a74288936aba010122/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/41516c6df943c8a74288936aba010122/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/881ce9c2c057c7d0017fa4ccfbaacf8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/881ce9c2c057c7d0017fa4ccfbaacf8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8be2aa4dde4051153270d2c2edc6e381/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8be2aa4dde4051153270d2c2edc6e381/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ccf941dd7923bdbe26f1bac77d4dc737/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ccf941dd7923bdbe26f1bac77d4dc737/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7489ba176cd3b7598c4687f8bced2a2f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7489ba176cd3b7598c4687f8bced2a2f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/09b4354a5b9e9fe7b5925bb8c4653651/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/09b4354a5b9e9fe7b5925bb8c4653651/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/104b8e19a2cebc7906a2d075042d7d30/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/104b8e19a2cebc7906a2d075042d7d30/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/db50e08f306407685392492a0e6b3ddc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/db50e08f306407685392492a0e6b3ddc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1dc64e85f03b48c21305935ba8fc8368/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1dc64e85f03b48c21305935ba8fc8368/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d3be6eee09675eb7a07c343f99cad17/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d3be6eee09675eb7a07c343f99cad17/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:5:5-7:40
+INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:5:5-7:40
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a05dbefad98d961bdfbca7a1f04af09e/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:7:9-38
+		INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:6:9-35
+		INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:11:22-77
+application
+ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:13:5-43:19
+MERGED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:14:5-39:19
+MERGED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:14:5-39:19
+MERGED from [:DebugSettings:] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/DebugSettings.aar/8c0810f55407c0376eddb08b5490651d/AndroidManifest.xml:5:5-11:19
+MERGED from [:DebugSettings:] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/DebugSettings.aar/8c0810f55407c0376eddb08b5490651d/AndroidManifest.xml:5:5-11:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a05dbefad98d961bdfbca7a1f04af09e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a05dbefad98d961bdfbca7a1f04af09e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/bc0b97cdde95300a2cebd2c684c0968f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/bc0b97cdde95300a2cebd2c684c0968f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bede00667008fef0b9fce036e9cef6c1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bede00667008fef0b9fce036e9cef6c1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/41516c6df943c8a74288936aba010122/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/41516c6df943c8a74288936aba010122/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/881ce9c2c057c7d0017fa4ccfbaacf8e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/881ce9c2c057c7d0017fa4ccfbaacf8e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8be2aa4dde4051153270d2c2edc6e381/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8be2aa4dde4051153270d2c2edc6e381/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ccf941dd7923bdbe26f1bac77d4dc737/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ccf941dd7923bdbe26f1bac77d4dc737/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7489ba176cd3b7598c4687f8bced2a2f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7489ba176cd3b7598c4687f8bced2a2f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/09b4354a5b9e9fe7b5925bb8c4653651/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/09b4354a5b9e9fe7b5925bb8c4653651/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/104b8e19a2cebc7906a2d075042d7d30/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/104b8e19a2cebc7906a2d075042d7d30/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/db50e08f306407685392492a0e6b3ddc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/db50e08f306407685392492a0e6b3ddc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1dc64e85f03b48c21305935ba8fc8368/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1dc64e85f03b48c21305935ba8fc8368/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d3be6eee09675eb7a07c343f99cad17/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d3be6eee09675eb7a07c343f99cad17/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from [:DebugSettings:] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/DebugSettings.aar/8c0810f55407c0376eddb08b5490651d/AndroidManifest.xml:6:9-36
+	android:icon
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:15:9-45
+	android:networkSecurityConfig
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:14:9-49
+activity#com.facebook.samples.AdUnitsSample.AdUnitsSampleActivity
+ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:19:9-23:15
+	android:label
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:21:13-45
+	android:exported
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:20:13-50
+activity#com.facebook.samples.AdUnitsSample.SampleListActivity
+ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:24:9-27:15
+	android:exported
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:25:13-47
+activity#com.facebook.samples.AdUnitsSample.SplashActivity
+ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:28:9-38:20
+	android:noHistory
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:30:13-37
+	android:exported
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:29:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:36:27-74
+activity#com.facebook.samples.ads.debugsettings.DebugSettingsActivity
+ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:39:9-42:15
+MERGED from [:DebugSettings:] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/DebugSettings.aar/8c0810f55407c0376eddb08b5490651d/AndroidManifest.xml:8:9-10:40
+MERGED from [:DebugSettings:] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/DebugSettings.aar/8c0810f55407c0376eddb08b5490651d/AndroidManifest.xml:8:9-10:40
+	android:exported
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from /Users/nickyang/Documents/GitHub/audience-network-sdk-5.6.1/AudienceNetwork/samples/AdUnitsSample/src/main/AndroidManifest.xml:40:13-88
+uses-permission#android.permission.INTERNET
+ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:12:22-76
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:15:9-19:75
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:18:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:17:13-74
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:16:13-68
+activity#com.facebook.ads.internal.ipc.RemoteANActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:20:9-25:75
+	android:process
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:24:13-36
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:23:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:22:13-74
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:25:13-72
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:21:13-74
+service#com.facebook.ads.internal.ipc.AdsProcessPriorityService
+ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:28:13-83
+service#com.facebook.ads.internal.ipc.AdsMessengerService
+ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:30:9-33:39
+	android:process
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:33:13-36
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:31:13-77
+provider#com.facebook.ads.AudienceNetworkContentProvider
+ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:35:9-38:40
+	android:authorities
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:37:13-82
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.6.1.aar/e6fa6d7e4b830a65eecabcfa60221660/AndroidManifest.xml:36:13-75
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a05dbefad98d961bdfbca7a1f04af09e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bede00667008fef0b9fce036e9cef6c1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bede00667008fef0b9fce036e9cef6c1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/41516c6df943c8a74288936aba010122/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/41516c6df943c8a74288936aba010122/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8be2aa4dde4051153270d2c2edc6e381/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8be2aa4dde4051153270d2c2edc6e381/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ccf941dd7923bdbe26f1bac77d4dc737/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ccf941dd7923bdbe26f1bac77d4dc737/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7489ba176cd3b7598c4687f8bced2a2f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7489ba176cd3b7598c4687f8bced2a2f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/09b4354a5b9e9fe7b5925bb8c4653651/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/09b4354a5b9e9fe7b5925bb8c4653651/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/104b8e19a2cebc7906a2d075042d7d30/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/104b8e19a2cebc7906a2d075042d7d30/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/db50e08f306407685392492a0e6b3ddc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/db50e08f306407685392492a0e6b3ddc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1dc64e85f03b48c21305935ba8fc8368/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1dc64e85f03b48c21305935ba8fc8368/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a05dbefad98d961bdfbca7a1f04af09e/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a05dbefad98d961bdfbca7a1f04af09e/AndroidManifest.xml:27:13-51
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/bc0b97cdde95300a2cebd2c684c0968f/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/bc0b97cdde95300a2cebd2c684c0968f/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/bc0b97cdde95300a2cebd2c684c0968f/AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d3be6eee09675eb7a07c343f99cad17/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d3be6eee09675eb7a07c343f99cad17/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nickyang/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d3be6eee09675eb7a07c343f99cad17/AndroidManifest.xml:26:13-58
