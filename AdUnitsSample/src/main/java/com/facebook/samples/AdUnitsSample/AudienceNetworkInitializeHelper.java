@@ -51,7 +51,8 @@ public class AudienceNetworkInitializeHelper
     static void initialize(Context context) {
         if (!AudienceNetworkAds.isInitialized(context)) {
 
-            AdSettings.setDebugBuild(true);
+//            AdSettings.setDebugBuild(true);
+            AdSettings.turnOnSDKDebugger(context);
 
             if (DEBUG) {
                 AdSettings.turnOnSDKDebugger(context);
